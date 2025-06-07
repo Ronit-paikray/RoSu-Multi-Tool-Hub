@@ -50,16 +50,6 @@ MultiToolHub/
 - CSS3 (Flexbox & Responsive Design)
 - Vanilla JavaScript (DOM APIs, Canvas, Web APIs)
 
----
-
-## 🚀 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/rosu-multi-tool-hub.git
-   ```
-2. Open `index.html` in your browser.
-3. Start using any tool instantly — no backend, no setup!
 
 ---
 
@@ -80,5 +70,4 @@ MIT License. Feel free to use, modify, and share!
 ## 👨‍💻 Author
 
 **Ronit Paikray**  
-Founder of [The Desi Digital Defender](https://github.com/Ronit-Paikray)  
 Cybersecurity & Tool Development Enthusiast
